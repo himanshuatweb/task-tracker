@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Purchase Bakery",
+      "day": "Dec 13 at 6pm",
+      "reminder": false
+    },
+    {
+      "text": "Walk the dog",
+      "day": "Tommorow",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Completed React Crash Course",
+      "day": "14-12-2021",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
